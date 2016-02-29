@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [XERATEC\Anda-SQL-User]
+    FROM WINDOWS WITH DEFAULT_LANGUAGE = [us_english];
+

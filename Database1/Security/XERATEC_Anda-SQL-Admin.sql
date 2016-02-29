@@ -1,0 +1,2 @@
+﻿CREATE USER [XERATEC\Anda-SQL-Admin] FOR LOGIN [XERATEC\Anda-SQL-Admin];
+

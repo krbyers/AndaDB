@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [cig]
+    WITH PASSWORD = N'hWM1FchpZy|fskuqownymrd4msFT7_&#$!~<sqvrtieQteDi', SID = 0xADA8EA3AFCF1164CA19B9ABDCC5EAAB0, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

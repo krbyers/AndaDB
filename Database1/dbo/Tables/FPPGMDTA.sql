@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[FPPGMDTA] (
+    [PDPROGRAM] CHAR (10)     NULL,
+    [PDFORMAT]  CHAR (10)     NULL,
+    [PDSEQ]     DECIMAL (5)   NULL,
+    [PDDATA]    VARCHAR (MAX) NULL
+);
+

@@ -1,0 +1,50 @@
+﻿GRANT CONNECT TO [XERATEC\Matthew.Miller];
+
+
+GO
+GRANT CONNECT TO [XERATEC\Charles.Fraser.admin];
+
+
+GO
+GRANT CONNECT TO [XERATEC\Anda-SQL-User];
+
+
+GO
+GRANT CONNECT TO [XERATEC\Anda-SQL-Admin];
+
+
+GO
+GRANT ALTER TO [cig];
+
+
+GO
+GRANT CONNECT TO [cig];
+
+
+GO
+GRANT DELETE TO [cig];
+
+
+GO
+GRANT EXECUTE TO [cig];
+
+
+GO
+GRANT INSERT TO [cig];
+
+
+GO
+GRANT SELECT TO [cig];
+
+
+GO
+GRANT UPDATE TO [cig];
+
+
+GO
+GRANT CONNECT TO [Drools];
+
+
+GO
+GRANT CONNECT TO [test];
+
